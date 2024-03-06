@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PRAVINSONI13
+- 👋 Hi, I’m PRAVIN SONI
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on ...
